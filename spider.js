@@ -1,3 +1,4 @@
+"use strict"
 const https = require('https');
 
 https.get( 'https://www.packtpub.com/packt/offers/free-learning', (res) => {
