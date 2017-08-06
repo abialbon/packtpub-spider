@@ -1,3 +1,4 @@
+"use strict"
 const https = require('https');
 const packtUrl = 'https://www.packtpub.com/packt/offers/free-learning';
 
